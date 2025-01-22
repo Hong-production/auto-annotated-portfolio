@@ -47,7 +47,7 @@ sections:
     actions: []
     text: >+
       #### These are some of the projects I've worked on before and hopefully
-      will get you interested in working with me.
+      get you interested in them.
 
   - colors: colors-f
     type: FeaturedProjectsSection
