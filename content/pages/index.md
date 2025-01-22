@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: I’m a photographer and artist.
-    subtitle: "I am a freelance photographer who also involved in various art-related projects, with a passion for capturing moments and showing meaningful exhibitions.\_ \_ \_ \_ \_\_I specialize more in events, concerts ,and outdoor shoots. I love to record every precious moment because it means the most to you."
+    subtitle: "I am a freelance photographer who also involved in various art-related projects, with a passion for capturing moments and showing meaningful exhibitions.\_ \_ \_ \_ \_ I specialize more in events, concerts ,and outdoor shoots. I love to record every precious moment because it means the most to you."
     styles:
       self:
         height: auto
