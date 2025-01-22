@@ -88,7 +88,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: CtaSection
-    title: Let's do this
+    title: Concert Photography
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
