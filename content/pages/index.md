@@ -46,12 +46,12 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      ## I specialize more in events, concerts ,and outdoor shoots. I love to
-      record every precious moment because it means the most to you.
+      ###### I specialize more in events, concerts ,and outdoor shoots. I love
+      to record every precious moment because it means the most to you.
 
 
-      ## These are some of the projects I've worked on before and hopefully will
-      get you interested in working with me.
+      ###### These are some of the projects I've worked on before and hopefully
+      will get you interested in working with me.
 
   - colors: colors-f
     type: FeaturedProjectsSection
