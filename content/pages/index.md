@@ -46,7 +46,7 @@ sections:
     type: HeroSection
     actions: []
     text: |+
-      ######
+      ###### ;ko
 
   - colors: colors-f
     type: FeaturedProjectsSection
