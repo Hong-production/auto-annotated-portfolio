@@ -50,7 +50,7 @@ sections:
       record every precious moment because it means the most to you.
 
 
-      #### These are some of the projects I've worked on before and hopefully
+      ###### These are some of the projects I've worked on before and hopefully
       will get you interested in working with me.
 
   - colors: colors-f
