@@ -15,9 +15,12 @@ sections:
     backgroundSize: full
     title: I’m a photographer and artist.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am a freelance photographer who is also involved in various art-related
+      projects, with a passion for capturing moments and attending meaningful
+      exhibitions. I specialize more in events, concerts ,and outdoor shoots. I
+      love to record every precious moment because it means the most to you.
+      These are some of the projects I've worked on before and hopefully will
+      get you interested in working with me.
     styles:
       self:
         height: auto
