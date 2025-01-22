@@ -94,7 +94,7 @@ sections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: Learn More
         altText: ''
         url: >-
           https://www.canva.com/design/DAGbzlF8hGE/5bYaRNi5GXApDuU1yUKpNw/view?utm_content=DAGbzlF8hGE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h498add69fa
