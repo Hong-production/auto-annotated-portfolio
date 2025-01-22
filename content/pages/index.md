@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: I’m a photographer and artist.
     subtitle: >-
       I am a freelance photographer who also involved in various art-related
