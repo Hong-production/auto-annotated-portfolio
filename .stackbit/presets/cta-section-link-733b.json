@@ -1,0 +1,62 @@
+{
+    "model": "CtaSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "link",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "my"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Wedding Photography",
+                "text": "Check out some of the amazing weddings I have covered, capturing unforgettable moments.\n\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Learn More",
+                        "altText": "",
+                        "url": "https://www.canva.com/design/DAF_syX5PLY/rAJxRBf_LIMX6crSK6n2Bw/view?utm_content=DAF_syX5PLY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h05ba2dedbe",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": ""
+                    }
+                ],
+                "colors": "colors-f",
+                "backgroundSize": "full",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "narrow",
+                        "padding": [
+                            "pt-28",
+                            "pb-28",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "row"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            },
+            "thumbnail": "images/cta-section-link-733b.png"
+        }
+    ]
+}
