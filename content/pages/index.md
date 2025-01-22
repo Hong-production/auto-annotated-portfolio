@@ -51,9 +51,10 @@ sections:
 
   - type: CtaSection
     title: Wedding Photography
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >+
+      Check out some of the amazing weddings I have covered, capturing
+      unforgettable moments.
+
     actions:
       - type: Button
         label: Learn More
