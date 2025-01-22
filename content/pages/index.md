@@ -10,44 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: I’m a photographer and artist.
-    subtitle: >-
-      I am a freelance photographer who also involved in various art-related
-      projects, with a passion for capturing moments and showing meaningful
-      exhibitions.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
-    text: |+
-      ###### ;ko
-
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -86,6 +48,44 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: I’m a photographer and artist.
+    subtitle: >-
+      I am a freelance photographer who also involved in various art-related
+      projects, with a passion for capturing moments and showing meaningful
+      exhibitions.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
+    text: |+
+      ###### ;ko
+
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
