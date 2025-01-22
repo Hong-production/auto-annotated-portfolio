@@ -46,7 +46,7 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      ###### These are some of the projects I've worked on before and hopefully
+      #### These are some of the projects I've worked on before and hopefully
       will get you interested in working with me.
 
   - colors: colors-f
