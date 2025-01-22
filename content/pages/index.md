@@ -58,7 +58,8 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: >-
+          https://www.canva.com/design/DAF_syX5PLY/rAJxRBf_LIMX6crSK6n2Bw/view?utm_content=DAF_syX5PLY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h05ba2dedbe
         showIcon: true
         icon: arrowRight
         iconPosition: right
