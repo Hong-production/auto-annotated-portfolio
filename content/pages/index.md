@@ -89,9 +89,9 @@ sections:
         justifyContent: flex-start
   - type: CtaSection
     title: Concert Photography
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |+
+      Explore my work in capturing the energy and emotion of live performances.
+
     actions:
       - type: Button
         label: Try it now
