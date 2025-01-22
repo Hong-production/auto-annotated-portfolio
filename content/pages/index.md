@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: I’m a photographer and artist.
     subtitle: >-
-      I am a freelance photographer who is also involved in various art-related
-      projects, with a passion for capturing moments and attending meaningful
-      exhibitions. 
+      I am a freelance photographer who also involved in various art-related
+      projects, with a passion for capturing moments and showing meaningful
+      exhibitions.
     styles:
       self:
         height: auto
