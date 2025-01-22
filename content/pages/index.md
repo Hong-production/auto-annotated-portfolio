@@ -49,6 +49,17 @@ sections:
       #### These are some of the projects I've worked on before and hopefully
       get you interested in them.
 
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - type: CtaSection
     title: Wedding Photography
     text: >+
