@@ -52,7 +52,17 @@ sections:
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: >-
+          https://www.canva.com/design/DAF_syX5PLY/rAJxRBf_LIMX6crSK6n2Bw/view?utm_content=DAF_syX5PLY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h05ba2dedbe
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
