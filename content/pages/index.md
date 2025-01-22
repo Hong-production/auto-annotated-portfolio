@@ -250,4 +250,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/bg1.jpg
 ---
