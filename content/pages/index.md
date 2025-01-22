@@ -134,7 +134,8 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: >-
+          https://www.canva.com/design/DAF0ZTcXlKI/BDN-EgAQWavjh8eHdvVguQ/view?utm_content=DAF0ZTcXlKI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h203c09a5b9
         showIcon: true
         icon: arrowRight
         iconPosition: right
