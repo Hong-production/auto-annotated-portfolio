@@ -13,13 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: I’m a photographer and artist.
+    subtitle: "I am a freelance photographer who also involved in various art-related projects, with a passion for capturing moments and showing meaningful exhibitions.\_I specialize more in events, concerts, and outdoor shoots. I love to record every precious moment because it means the most to you."
     styles:
       self:
         height: auto
@@ -37,6 +32,9 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
+        borderWidth: 2
+        borderStyle: dotted
+        borderRadius: large
       title:
         textAlign: left
       subtitle:
@@ -47,86 +45,145 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
+    text: >+
+      #### These are some of the projects I've worked on before and hopefully
+      get you interested in them.
+
+  - type: DividerSection
+    title: Divider
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: full
         padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+          - pt-36
+          - pb-36
         justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: 'Projects'
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
+        borderWidth: 1
+  - type: CtaSection
+    title: Wedding Photography
+    text: >+
+      Check out some of the amazing weddings I have covered, capturing
+      unforgettable moments.
+
     actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
+      - type: Button
+        label: Learn More
+        altText: ''
+        url: >-
+          https://www.canva.com/design/DAF_syX5PLY/rAJxRBf_LIMX6crSK6n2Bw/view?utm_content=DAF_syX5PLY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h05ba2dedbe
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-28
-          - pb-48
+          - pb-28
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
+        flexDirection: row
       title:
         textAlign: left
-      subtitle:
+      text:
         textAlign: left
       actions:
-        justifyContent: flex-end
+        justifyContent: flex-start
+  - type: CtaSection
+    title: Concert Photography
+    text: |+
+      Explore my work in capturing the energy and emotion of live performances.
+
+    actions:
+      - type: Button
+        label: Learn More
+        altText: ''
+        url: >-
+          https://www.canva.com/design/DAGbzlF8hGE/5bYaRNi5GXApDuU1yUKpNw/view?utm_content=DAGbzlF8hGE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h498add69fa
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: CtaSection
+    title: Graduation Photography
+    text: >+
+      Discover graduations with stunning photos that showcase your success and
+      excitement.
+
+    actions:
+      - type: Button
+        label: Learn More
+        altText: ''
+        url: >-
+          https://www.canva.com/design/DAF0ZTcXlKI/BDN-EgAQWavjh8eHdvVguQ/view?utm_content=DAF0ZTcXlKI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h203c09a5b9
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -193,4 +250,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/bg1.jpg
 ---

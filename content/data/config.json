@@ -5,39 +5,16 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Hong ",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/my.life_my.live/",
+                "icon": "instagram"
             }
         ],
         "styles": {
@@ -51,44 +28,31 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "t.qihong11@gmail.com",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "011-39706064",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "t.qihong11@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "address": "my.life_my.live",
+            "addressAltText": "Instagram"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "By Hong\n",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
